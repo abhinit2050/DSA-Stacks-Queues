@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/remove-outermost-parentheses/submissions/1758484640/
+
 var removeOuterParentheses = function(s) {
     let stack = [];
     let ans="";
